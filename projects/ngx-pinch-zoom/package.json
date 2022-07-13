@@ -1,10 +1,10 @@
 {
-  "name": "ngx-pinch-zoom",
+  "name": "ng-pinch-zoom-x",
   "version": "2.5.5",
   "description": "Pinch zoom component for Angular.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/drozhzhin-n-e/ngx-pinch-zoom.git"
+    "url": "git+https://github.com/iconben/ng-pinch-zoom-x.git"
   },
   "author": {
     "name": "Nikita Drozhzhin",
@@ -22,7 +22,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/drozhzhin-n-e/ngx-pinch-zoom/issues"
+    "url": "https://github.com/iconben/ng-pinch-zoom-x/issues"
   },
   "peerDependencies": {
     "@angular/common": "^11.1.2",

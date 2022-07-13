@@ -12,8 +12,7 @@
     "importHelpers": true,
     "paths": {
       "ngx-pinch-zoom": [
-        "dist/ngx-pinch-zoom/ngx-pinch-zoom",
-        "dist/ngx-pinch-zoom"
+        "dist/ng-pinch-zoom-x"
       ]
     },
     "target": "es2015",
